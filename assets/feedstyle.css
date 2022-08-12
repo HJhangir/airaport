@@ -1,0 +1,71 @@
+* {
+    margin: 0%;
+}
+
+
+.container {
+
+    width: 100%;
+}
+
+
+
+.middle {
+    display: flex;
+    padding-top: 15px;
+    color: #8a8a8ab4;
+}
+
+.full_name {
+    display: flex;
+    padding-top: 15px;
+    gap: 15px;
+
+}
+
+.full_name input {
+    display: flex;
+    height: 30px;
+    width: 250px;
+
+}
+
+
+.form_items_select {
+    display: flex;
+    padding-top: 15px;
+}
+
+.form_items_select select {
+
+    display: flex;
+    width: 530px;
+    height: 40px;
+}
+
+
+.your_message {
+    display: flex;
+    padding-top: 15px;
+}
+
+
+.your_message input {
+
+    display: flex;
+    width: 520px;
+    height: 80px;
+
+}
+
+
+.blue_bttn {
+
+    display: flex;
+    margin-top: 15px;
+    padding: 15px;
+    width: 200px;
+    color: white;
+    background-color: #53b8e9;
+
+}
